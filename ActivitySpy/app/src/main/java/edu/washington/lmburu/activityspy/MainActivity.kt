@@ -14,38 +14,38 @@ class MainActivity : AppCompatActivity() {
 
        if (savedInstanceState != null ){
             for (key in savedInstanceState.keySet()) {
-                Log.i(TAG, "Key: $key  Value: ${savedInstanceState.get(key)}")
+                Log.i(TAG, "Bundle: savedInstanceStateKey --> $key  savedInstanceStateValue: --> ${savedInstanceState.get(key)}")
             }
         } else{
            Log.i(TAG, "Hey,.. I have nothing in my bundle")
        }
 
-        Log.i(TAG, "OnCreate event fired")
+        Log.i(TAG, "onCreate event fired")
     }
 
     override fun onStart(){
         super.onStart()
-        Log.i(TAG, "OnStart event fired")
+        Log.i(TAG, "onStart event fired")
     }
 
     override fun onResume(){
         super.onResume()
-        Log.i(TAG, "OnResume event fired")
+        Log.i(TAG, "onResume event fired")
     }
 
     override fun onPause(){
         super.onPause()
-        Log.i(TAG, "OnPause event fired")
+        Log.i(TAG, "onPause event fired")
     }
 
     override fun onStop(){
         super.onStop()
-        Log.e(TAG, "We’re going down, Captain!")
+        Log.i(TAG, "onStop event fired")
     }
 
     override fun onRestart(){
         super.onRestart()
-        Log.i(TAG, "OnRestart event fired")
+        Log.i(TAG, "onRestart event fired")
     }
 
     override fun onDestroy(){
