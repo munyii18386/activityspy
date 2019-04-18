@@ -1,0 +1,79 @@
+--------- beginning of system
+--------- beginning of main
+I/MainActivity( 3326): Hey,.. I have nothing in my bundle
+I/MainActivity( 3326): OnCreate event fired
+I/MainActivity( 3326): OnStart event fired
+I/MainActivity( 3326): OnResume event fired
+I/MainActivity( 3664): Hey,.. I have nothing in my bundle
+I/MainActivity( 3664): OnCreate event fired
+I/MainActivity( 3664): OnStart event fired
+I/MainActivity( 3664): OnResume event fired
+I/MainActivity( 3799): Hey,.. I have nothing in my bundle
+I/MainActivity( 3799): OnCreate event fired
+I/MainActivity( 3799): OnStart event fired
+I/MainActivity( 3799): OnResume event fired
+I/MainActivity( 3799): OnPause event fired
+I/MainActivity( 3799): OnStop event fired
+I/MainActivity( 3799): OnRestart event fired
+I/MainActivity( 3799): OnStart event fired
+I/MainActivity( 3799): OnResume event fired
+I/MainActivity( 3929): Hey,.. I have nothing in my bundle
+I/MainActivity( 3929): OnCreate event fired
+I/MainActivity( 3929): OnStart event fired
+I/MainActivity( 3929): OnResume event fired
+I/MainActivity( 3929): OnPause event fired
+I/MainActivity( 3929): We’re going down, Captain!
+E/MainActivity( 3929): We’re going down, Captain!
+I/MainActivity( 3929): Hey,.. I have nothing in my bundle
+I/MainActivity( 3929): OnCreate event fired
+I/MainActivity( 3929): OnStart event fired
+I/MainActivity( 3929): OnResume event fired
+I/MainActivity( 3929): OnPause event fired
+I/MainActivity( 3929): We’re going down, Captain!
+I/MainActivity( 3929): OnRestart event fired
+I/MainActivity( 3929): OnStart event fired
+I/MainActivity( 3929): OnResume event fired
+I/MainActivity( 4192): Hey,.. I have nothing in my bundle
+I/MainActivity( 4192): OnCreate event fired
+I/MainActivity( 4192): OnStart event fired
+I/MainActivity( 4192): OnResume event fired
+I/MainActivity( 4192): OnPause event fired
+I/MainActivity( 4192): We’re going down, Captain!
+I/MainActivity( 4192): OnRestart event fired
+I/MainActivity( 4192): OnStart event fired
+I/MainActivity( 4192): OnResume event fired
+I/MainActivity( 4394): Hey,.. I have nothing in my bundle
+I/MainActivity( 4394): OnCreate event fired
+I/MainActivity( 4394): OnStart event fired
+I/MainActivity( 4394): OnResume event fired
+I/MainActivity( 4394): OnPause event fired
+E/MainActivity( 4394): We’re going down, Captain!
+I/MainActivity( 4394): OnRestart event fired
+I/MainActivity( 4394): OnStart event fired
+I/MainActivity( 4394): OnResume event fired
+I/MainActivity( 4394): OnPause event fired
+E/MainActivity( 4394): We’re going down, Captain!
+E/MainActivity( 4394): We’re going down, Captain!
+I/MainActivity( 4394): Hey,.. I have nothing in my bundle
+I/MainActivity( 4394): OnCreate event fired
+I/MainActivity( 4394): OnStart event fired
+I/MainActivity( 4394): OnResume event fired
+I/MainActivity( 4394): OnPause event fired
+E/MainActivity( 4394): We’re going down, Captain!
+I/MainActivity( 4394): OnRestart event fired
+I/MainActivity( 4394): OnStart event fired
+I/MainActivity( 4394): OnResume event fired
+I/MainActivity( 4394): OnPause event fired
+E/MainActivity( 4394): We’re going down, Captain!
+I/MainActivity( 4394): OnRestart event fired
+I/MainActivity( 4394): OnStart event fired
+I/MainActivity( 4394): OnResume event fired
+I/MainActivity( 4394): OnPause event fired
+E/MainActivity( 4394): We’re going down, Captain!
+E/MainActivity( 4394): We’re going down, Captain!
+I/MainActivity( 4394): Hey,.. I have nothing in my bundle
+I/MainActivity( 4394): OnCreate event fired
+I/MainActivity( 4394): OnStart event fired
+I/MainActivity( 4394): OnResume event fired
+I/MainActivity( 4394): OnPause event fired
+E/MainActivity( 4394): We’re going down, Captain!
