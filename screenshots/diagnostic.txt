@@ -1,79 +1,90 @@
---------- beginning of system
 --------- beginning of main
-I/MainActivity( 3326): Hey,.. I have nothing in my bundle
-I/MainActivity( 3326): OnCreate event fired
-I/MainActivity( 3326): OnStart event fired
-I/MainActivity( 3326): OnResume event fired
-I/MainActivity( 3664): Hey,.. I have nothing in my bundle
-I/MainActivity( 3664): OnCreate event fired
-I/MainActivity( 3664): OnStart event fired
-I/MainActivity( 3664): OnResume event fired
-I/MainActivity( 3799): Hey,.. I have nothing in my bundle
-I/MainActivity( 3799): OnCreate event fired
-I/MainActivity( 3799): OnStart event fired
-I/MainActivity( 3799): OnResume event fired
-I/MainActivity( 3799): OnPause event fired
-I/MainActivity( 3799): OnStop event fired
-I/MainActivity( 3799): OnRestart event fired
-I/MainActivity( 3799): OnStart event fired
-I/MainActivity( 3799): OnResume event fired
-I/MainActivity( 3929): Hey,.. I have nothing in my bundle
-I/MainActivity( 3929): OnCreate event fired
-I/MainActivity( 3929): OnStart event fired
-I/MainActivity( 3929): OnResume event fired
-I/MainActivity( 3929): OnPause event fired
-I/MainActivity( 3929): We’re going down, Captain!
-E/MainActivity( 3929): We’re going down, Captain!
-I/MainActivity( 3929): Hey,.. I have nothing in my bundle
-I/MainActivity( 3929): OnCreate event fired
-I/MainActivity( 3929): OnStart event fired
-I/MainActivity( 3929): OnResume event fired
-I/MainActivity( 3929): OnPause event fired
-I/MainActivity( 3929): We’re going down, Captain!
-I/MainActivity( 3929): OnRestart event fired
-I/MainActivity( 3929): OnStart event fired
-I/MainActivity( 3929): OnResume event fired
-I/MainActivity( 4192): Hey,.. I have nothing in my bundle
-I/MainActivity( 4192): OnCreate event fired
-I/MainActivity( 4192): OnStart event fired
-I/MainActivity( 4192): OnResume event fired
-I/MainActivity( 4192): OnPause event fired
-I/MainActivity( 4192): We’re going down, Captain!
-I/MainActivity( 4192): OnRestart event fired
-I/MainActivity( 4192): OnStart event fired
-I/MainActivity( 4192): OnResume event fired
-I/MainActivity( 4394): Hey,.. I have nothing in my bundle
-I/MainActivity( 4394): OnCreate event fired
-I/MainActivity( 4394): OnStart event fired
-I/MainActivity( 4394): OnResume event fired
-I/MainActivity( 4394): OnPause event fired
-E/MainActivity( 4394): We’re going down, Captain!
-I/MainActivity( 4394): OnRestart event fired
-I/MainActivity( 4394): OnStart event fired
-I/MainActivity( 4394): OnResume event fired
-I/MainActivity( 4394): OnPause event fired
-E/MainActivity( 4394): We’re going down, Captain!
-E/MainActivity( 4394): We’re going down, Captain!
-I/MainActivity( 4394): Hey,.. I have nothing in my bundle
-I/MainActivity( 4394): OnCreate event fired
-I/MainActivity( 4394): OnStart event fired
-I/MainActivity( 4394): OnResume event fired
-I/MainActivity( 4394): OnPause event fired
-E/MainActivity( 4394): We’re going down, Captain!
-I/MainActivity( 4394): OnRestart event fired
-I/MainActivity( 4394): OnStart event fired
-I/MainActivity( 4394): OnResume event fired
-I/MainActivity( 4394): OnPause event fired
-E/MainActivity( 4394): We’re going down, Captain!
-I/MainActivity( 4394): OnRestart event fired
-I/MainActivity( 4394): OnStart event fired
-I/MainActivity( 4394): OnResume event fired
-I/MainActivity( 4394): OnPause event fired
-E/MainActivity( 4394): We’re going down, Captain!
-E/MainActivity( 4394): We’re going down, Captain!
-I/MainActivity( 4394): Hey,.. I have nothing in my bundle
-I/MainActivity( 4394): OnCreate event fired
-I/MainActivity( 4394): OnStart event fired
-I/MainActivity( 4394): OnResume event fired
-I/MainActivity( 4394): OnPause event fired
-E/MainActivity( 4394): We’re going down, Captain!
+--------- beginning of system
+04-18 14:53:26.865  3714  3714 I MainActivity: Hey,.. I have nothing in my bundle
+04-18 14:53:26.865  3714  3714 I MainActivity: onCreate event fired
+04-18 14:53:26.866  3714  3714 I MainActivity: onStart event fired
+04-18 14:53:26.866  3714  3714 I MainActivity: onResume event fired
+04-18 14:53:41.128  3714  3714 I MainActivity: onPause event fired
+04-18 14:53:41.147  3714  3714 I MainActivity: onResume event fired
+04-18 14:53:43.599  3714  3714 I MainActivity: onRestart event fired
+04-18 14:53:43.599  3714  3714 I MainActivity: onStart event fired
+04-18 14:53:43.599  3714  3714 I MainActivity: onResume event fired
+04-18 14:53:45.430  3714  3714 I MainActivity: onPause event fired
+04-18 14:53:46.205  3714  3714 I MainActivity: onResume event fired
+04-18 14:53:46.205  3714  3714 E MainActivity: We’re going down, Captain!
+04-18 14:53:50.878  3714  3714 I MainActivity: Hey,.. I have nothing in my bundle
+04-18 14:53:50.878  3714  3714 I MainActivity: onCreate event fired
+04-18 14:53:50.879  3714  3714 I MainActivity: onStart event fired
+04-18 14:53:50.880  3714  3714 I MainActivity: onResume event fired
+04-18 14:53:56.324  3714  3714 I MainActivity: onPause event fired
+04-18 14:53:56.343  3714  3714 I MainActivity: onResume event fired
+04-18 14:54:56.953  3825  3825 I MainActivity: Hey,.. I have nothing in my bundle
+04-18 14:54:56.953  3825  3825 I MainActivity: onCreate event fired
+04-18 14:54:56.957  3825  3825 I MainActivity: onStart event fired
+04-18 14:54:56.958  3825  3825 I MainActivity: onResume event fired
+04-18 14:55:02.609  3825  3825 I MainActivity: onPause event fired
+04-18 14:55:03.547  3825  3825 I MainActivity: onResume event fired
+04-18 14:55:03.547  3825  3825 E MainActivity: We’re going down, Captain!
+04-18 14:55:16.089  3825  3825 I MainActivity: Hey,.. I have nothing in my bundle
+04-18 14:55:16.089  3825  3825 I MainActivity: onCreate event fired
+04-18 14:55:16.090  3825  3825 I MainActivity: onStart event fired
+04-18 14:55:16.090  3825  3825 I MainActivity: onResume event fired
+04-18 14:55:17.790  3825  3825 I MainActivity: onPause event fired
+04-18 14:55:17.817  3825  3825 I MainActivity: onResume event fired
+04-18 14:55:22.983  3825  3825 I MainActivity: onRestart event fired
+04-18 14:55:22.987  3825  3825 I MainActivity: onStart event fired
+04-18 14:55:22.987  3825  3825 I MainActivity: onResume event fired
+04-18 14:55:29.647  3825  3825 I MainActivity: onPause event fired
+04-18 14:55:29.647  3825  3825 I MainActivity: onResume event fired
+04-18 14:55:29.647  3825  3825 E MainActivity: We’re going down, Captain!
+04-18 14:55:29.736  3825  3825 I MainActivity: 
+04-18 14:55:29.736  3825  3825 I MainActivity:  Bundle: savedInstanceStateKey --> android:viewHierarchyState  savedInstanceStateValue: --> Bundle[{android:views={16908290=android.view.AbsSavedState$1@3aedbcfb, 2131165190=android.support.v7.widget.Toolbar$SavedState@2bf02118, 2131165192=android.view.AbsSavedState$1@3aedbcfb, 2131165198=android.view.AbsSavedState$1@3aedbcfb, 2131165232=android.view.AbsSavedState$1@3aedbcfb}}]
+04-18 14:55:29.736  3825  3825 I MainActivity: 
+04-18 14:55:29.736  3825  3825 I MainActivity:  Bundle: savedInstanceStateKey --> android:fragments  savedInstanceStateValue: --> android.app.FragmentManagerState@fe39771
+04-18 14:55:29.736  3825  3825 I MainActivity: onCreate event fired
+04-18 14:55:29.737  3825  3825 I MainActivity: onStart event fired
+04-18 14:55:29.738  3825  3825 I MainActivity: onResume event fired
+04-18 14:55:33.596  3825  3825 I MainActivity: onPause event fired
+04-18 14:55:33.596  3825  3825 I MainActivity: onResume event fired
+04-18 14:55:33.596  3825  3825 E MainActivity: We’re going down, Captain!
+04-18 14:55:33.643  3825  3825 I MainActivity: 
+04-18 14:55:33.643  3825  3825 I MainActivity:  Bundle: savedInstanceStateKey --> android:viewHierarchyState  savedInstanceStateValue: --> Bundle[{android:views={16908290=android.view.AbsSavedState$1@3aedbcfb, 2131165190=android.support.v7.widget.Toolbar$SavedState@145f0dde, 2131165192=android.view.AbsSavedState$1@3aedbcfb, 2131165198=android.view.AbsSavedState$1@3aedbcfb, 2131165232=android.view.AbsSavedState$1@3aedbcfb}}]
+04-18 14:55:33.643  3825  3825 I MainActivity: 
+04-18 14:55:33.643  3825  3825 I MainActivity:  Bundle: savedInstanceStateKey --> android:fragments  savedInstanceStateValue: --> android.app.FragmentManagerState@3a66bbbf
+04-18 14:55:33.643  3825  3825 I MainActivity: onCreate event fired
+04-18 14:55:33.644  3825  3825 I MainActivity: onStart event fired
+04-18 14:55:33.645  3825  3825 I MainActivity: onResume event fired
+04-18 14:55:38.361  3825  3825 I MainActivity: onPause event fired
+04-18 14:55:39.027  3825  3825 I MainActivity: onResume event fired
+04-18 14:56:33.079  3986  3986 I MainActivity: Hey,.. I have nothing in my bundle
+04-18 14:56:33.081  3986  3986 I MainActivity: onCreate event fired
+04-18 14:56:33.097  3986  3986 I MainActivity: onStart event fired
+04-18 14:56:33.098  3986  3986 I MainActivity: onResume event fired
+04-18 14:56:55.559  3986  3986 I MainActivity: onPause event fired
+04-18 14:56:56.080  3986  3986 I MainActivity: onResume event fired
+04-18 14:56:58.836  3986  3986 I MainActivity: onRestart event fired
+04-18 14:56:58.841  3986  3986 I MainActivity: onStart event fired
+04-18 14:56:58.843  3986  3986 I MainActivity: onResume event fired
+04-18 14:57:03.847  3986  3986 I MainActivity: onPause event fired
+04-18 14:57:03.847  3986  3986 I MainActivity: onResume event fired
+04-18 14:57:03.847  3986  3986 E MainActivity: We’re going down, Captain!
+04-18 14:57:03.913  3986  3986 I MainActivity: 
+04-18 14:57:03.913  3986  3986 I MainActivity:  Bundle: savedInstanceStateKey --> android:viewHierarchyState  savedInstanceStateValue: --> Bundle[{android:views={16908290=android.view.AbsSavedState$1@2e13b664, 2131165190=android.support.v7.widget.Toolbar$SavedState@154f50cd, 2131165192=android.view.AbsSavedState$1@2e13b664, 2131165198=android.view.AbsSavedState$1@2e13b664, 2131165232=android.view.AbsSavedState$1@2e13b664}}]
+04-18 14:57:03.913  3986  3986 I MainActivity: 
+04-18 14:57:03.913  3986  3986 I MainActivity:  Bundle: savedInstanceStateKey --> android:fragments  savedInstanceStateValue: --> android.app.FragmentManagerState@8f20d82
+04-18 14:57:03.913  3986  3986 I MainActivity: onCreate event fired
+04-18 14:57:03.915  3986  3986 I MainActivity: onStart event fired
+04-18 14:57:03.915  3986  3986 I MainActivity: onResume event fired
+04-18 14:57:05.721  3986  3986 I MainActivity: onPause event fired
+04-18 14:57:06.502  3986  3986 I MainActivity: onResume event fired
+04-18 14:59:46.359  4110  4110 I MainActivity: Hey,.. I have nothing in my bundle
+04-18 14:59:46.359  4110  4110 I MainActivity: onCreate event fired
+04-18 14:59:46.360  4110  4110 I MainActivity: onStart event fired
+04-18 14:59:46.361  4110  4110 I MainActivity: onResume event fired
+04-18 15:00:22.265  4110  4110 I MainActivity: onPause event fired
+04-18 15:00:23.116  4110  4110 I MainActivity: onStop event fired
+04-18 15:00:30.109  4110  4110 I MainActivity: onRestart event fired
+04-18 15:00:30.111  4110  4110 I MainActivity: onStart event fired
+04-18 15:00:30.112  4110  4110 I MainActivity: onResume event fired
+04-18 15:00:33.901  4110  4110 I MainActivity: onPause event fired
+04-18 15:00:33.921  4110  4110 I MainActivity: onStop event fired
